@@ -3,7 +3,7 @@
 <h1 align="center">My name is Sopuru Oti<h1>
 <h3 align="center">I'm an aspiring full stack developer from Fremont, Ca</h3>
 
-I currently worked on a small interactive rock paper scissors game recently. Check it out!
+I recently worked on a small interactive rock paper scissors game. Check it out!
 
 - 👾 I’m currently learning more about Javascript and react.
 - 👾 How to reach me: **sopuruoti641@gmail.com**
