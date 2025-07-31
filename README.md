@@ -7,7 +7,7 @@ I recently worked on a small interactive rock paper scissors game. Check it out!
 
 - 👾 I’m currently learning more about Javascript and react.
 - 👾 How to reach me: **sopuruoti641@gmail.com**
-- 👾 All of my projects are available here --> [https://github.com/Sopuruoti641](https://github.com/Sopuruoti641)
+- 👾 All of my projects are available here --> https://github.com/Sopuruoti641?tab=repositories
 <h3 align="left">Lets connect!:</h3>
 <p align="left">
 </p>
