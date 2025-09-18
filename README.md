@@ -1,7 +1,7 @@
 ## Hello everyone!
 
 <h1 align="center">My name is Sopuru Oti<h1>
-<h3 align="center">I'm an aspiring full stack developer from Fremont, Ca</h3>
+<h3 align="center">I'm an aspiring developer from Fremont, Ca</h3>
 
 I recently worked on a small interactive rock paper scissors game. Check it out!
 
