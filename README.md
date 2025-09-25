@@ -7,6 +7,7 @@ I recently worked on a small interactive rock paper scissors game. Check it out!
 
 - 👾 I’m currently learning more about backend authentication and honing my frontend skills with CSS.
 - 👾 How to reach me: **sopuruoti641@gmail.com**
+- 👾 Here is my LinkedIn profile link --> https://www.linkedin.com/in/sopuru-oti-4929a7385/
 - 👾 All of my projects are available here --> https://github.com/Sopuruoti641?tab=repositories
 <h3 align="left">Lets connect!:</h3>
 <p align="left">
